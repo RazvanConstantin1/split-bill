@@ -7,19 +7,19 @@ import FriendsList from "./FriendsList.js";
 const initialFriends = [
   {
     id: 118836,
-    name: "Clark",
+    name: "John",
     image: "https://i.pravatar.cc/48?u=118836",
-    balance: -7,
+    balance: -10,
   },
   {
     id: 933372,
-    name: "Sarah",
+    name: "Patricia",
     image: "https://i.pravatar.cc/48?u=933372",
     balance: 20,
   },
   {
     id: 499476,
-    name: "Anthony",
+    name: "Mark",
     image: "https://i.pravatar.cc/48?u=499476",
     balance: 0,
   },
